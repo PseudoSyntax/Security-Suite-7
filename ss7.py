@@ -422,7 +422,7 @@ elif vtg_GUI:
          "Accept-Ianguage": "en-US,en;q=0.9,es;q=0.8",
      }
 
-     root.title("No API Key Virus Total - WAB.py")
+     root.title("No API Key Virus Total - API.py")
      root.geometry('450x400')
      #root['bg'] = '#ffbf00'
 
